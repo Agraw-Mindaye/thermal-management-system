@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Build artifacts
+build/
+Debug/
+Release/
+*.o
+*.a
+*.d
+*.su
+*.map
+*.elf
+*.hex
+*.bin
+*.lst
+*.sym
+
+# IDE / Editors
+.vscode/
+.idea/
+
+# STM32Cube generated
+*.launch
+.settings/
+
+# Clangd / tooling cache
+.cache/
+.clangd/
+
+# Optional: logs
+*.log
+
+# project-sensitive docs
+*/CLAUDE.md
