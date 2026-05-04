@@ -32,4 +32,5 @@ Release/
 *.log
 
 # project-sensitive docs
-*/CLAUDE.md
+CLAUDE.md
+**/CLAUDE.md
